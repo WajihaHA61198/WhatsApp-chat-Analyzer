@@ -2,11 +2,11 @@
 
 A streamlit app to analyze your whatsapp chats. <br>
 The script reads an exported WhatsApp chat and then extracts the data. <br>
-<b>Important:<b>
+<b>Important:</b> <br>
 ● It uses 24-hour time format.<br>
 ● While exporting the chat from whatsApp, export chat without media.<br>
 
-<b>Preview<b>
+<b>Preview</b>
 <br> <hr>
 
 ► Upload exported whatsapp chat and analyze it. <br>
