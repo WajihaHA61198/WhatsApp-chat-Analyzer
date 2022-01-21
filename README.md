@@ -15,20 +15,20 @@ The script reads an exported WhatsApp chat and then extracts the data. <br><br> 
 ► Wordcloud shows most active topic. the most enlarge font represents most frequent word.<br>
 ![2022-01-21 (3)](https://user-images.githubusercontent.com/88322471/150568190-e8ac9b68-c806-4cf1-9870-badaa1984b0e.png)
 
-►
+► Most common words 
 ![2022-01-21 (4)](https://user-images.githubusercontent.com/88322471/150568385-096bcf3c-58e9-4bd6-845e-a3201c2a5cef.png)
 
-►
+► Emoji count & percentage.<br>
 ![2022-01-21 (5)](https://user-images.githubusercontent.com/88322471/150568572-770587c3-8d4f-410f-9813-9249326fc73f.png)
 
-►
+► Monthly timeline. The spike shows activity.<br>
 ![2022-01-21 (6)](https://user-images.githubusercontent.com/88322471/150568888-7a0aeb80-9070-486c-81d9-9ebaf9233aee.png)
 
-►
+► Daily timeline. The spike shows activity.
 ![2022-01-21 (7)](https://user-images.githubusercontent.com/88322471/150569000-6c946176-a6d0-4bc6-8ce1-fca348adc8bd.png)
 
-►
+► In this most busy day and busy month shows most activity by average taking.<br>
 ![2022-01-21 (8)](https://user-images.githubusercontent.com/88322471/150569163-d1b91f9e-0b5c-4f5b-8aa9-e9c5ea90a6b5.png)
 
-►
+► Weekly activity shows the most activity with timewise.<br>
 ![2022-01-21 (9)](https://user-images.githubusercontent.com/88322471/150569381-4ede1adc-4854-4db9-b0f1-10676bb9eb21.png)
