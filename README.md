@@ -5,7 +5,7 @@ The script reads an exported WhatsApp chat and then extracts the data. <br>
 ● It uses 24-hour time format.<br>
 ● While exporting the chat from whatsApp, export chat without media.<br>
 
-<bold>Preview<bold>
+<b>Preview<b>
 <br> <hr>
 
 ► Upload exported whatsapp chat and analyze it. <br>
