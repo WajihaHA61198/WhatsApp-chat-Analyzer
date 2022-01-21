@@ -6,16 +6,16 @@ The script reads an exported WhatsApp chat and then extracts the data. <br><br> 
 ► Upload exported whatsapp chat and analyze it. <br>
 ![2022-01-21](https://user-images.githubusercontent.com/88322471/150567564-d06c93c3-33d6-4d6a-8498-0dbe0976797c.png)
 
-► Shows statistical view of analyze e.g. total message, word count, media & link.<br>
+► Shows statistical view of chat e.g. total message, word count, media & link.<br>
 ![2022-01-21 (1)](https://user-images.githubusercontent.com/88322471/150567805-d1a49452-90bf-4dde-b7b6-41995a131168.png)
 
-► Top 5 busy users.<br>
+► Top 5 busy users by their message count.<br>
 ![2022-01-21 (2)](https://user-images.githubusercontent.com/88322471/150568000-fc346673-9079-4c47-b2dd-b3b02f4c781c.png)
 
 ► Wordcloud shows most active topic. the most enlarge font represents most frequent word.<br>
 ![2022-01-21 (3)](https://user-images.githubusercontent.com/88322471/150568190-e8ac9b68-c806-4cf1-9870-badaa1984b0e.png)
 
-► Most common words 
+► Most common words.<br>
 ![2022-01-21 (4)](https://user-images.githubusercontent.com/88322471/150568385-096bcf3c-58e9-4bd6-845e-a3201c2a5cef.png)
 
 ► Emoji count & percentage.<br>
@@ -31,4 +31,5 @@ The script reads an exported WhatsApp chat and then extracts the data. <br><br> 
 ![2022-01-21 (8)](https://user-images.githubusercontent.com/88322471/150569163-d1b91f9e-0b5c-4f5b-8aa9-e9c5ea90a6b5.png)
 
 ► Weekly activity shows the most activity with timewise.<br>
+  lighter the color most activity in that period and otherwise.<br>
 ![2022-01-21 (9)](https://user-images.githubusercontent.com/88322471/150569381-4ede1adc-4854-4db9-b0f1-10676bb9eb21.png)
